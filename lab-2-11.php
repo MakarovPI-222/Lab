@@ -1,7 +1,7 @@
-<?php
+ï»¿<?php
 $n=rand(1,10);
 $m=rand(10,100);
-echo("4 âàðèàíò");
+echo("4 Ð²Ð°Ñ€Ð¸Ð°Ð½Ñ‚");
 print('<br>');
 print("n=" . $n);
 print('<br>');

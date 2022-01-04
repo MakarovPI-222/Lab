@@ -1,4 +1,4 @@
-<?php
+﻿<?php
  $var1= '3';
  $var2 = 5;
  echo $var1 . ' - ' . gettype($var1) . '<br>';
