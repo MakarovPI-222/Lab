@@ -1,21 +1,13 @@
-﻿<p> Дата и время;
-<p>
+﻿﻿< p > Дата и время;
+< р >
 <?php
-    $d=date("d.m.Y H:i");
-    echo($d);
-    echo "<p><a href='lab-1-1.php'>Типы переменных</a></p>";
-    echo "<p><a href='lab-1-2.php'>Арифметические операции</a></p>"; 
-    echo "<p><a href='lab-1-3.php'>Константа</a></p>";
-    echo "<p><a href='lab-1-5.php'>Выражение</a></p>";
-    echo "<p><a href='lab-2-1.php'>2-1</a></p>";
-    echo "<p><a href='lab-2-2.php'>2-2</a></p>";
-    echo "<p><a href='lab-2-3.php'>2-3</a></p>";
-    echo "<p><a href='lab-2-4.php'>2-4</a></p>";
-    echo "<p><a href='lab-2-5.php'>2-5</a></p>";
-    echo "<p><a href='lab-2-6.php'>2-6</a></p>";
-    echo "<p><a href='lab-2-7.php'>2-7</a></p>";
-    echo "<p><a href='lab-2-8.php'>2-8</a></p>";
-    echo "<p><a href='lab-2-9.php'>2-9</a></p>";
-    echo "<p><a href='lab-2-10.php'>2-10</a></p>";
-    echo "<p><a href='lab-2-11.php'>2-11</a></p>";
+    $ d = дата ( "dmY H:i" );
+    эхо ( $ d );
+    echo  "<p><a href='lab1.html'>Типы взаимодействия</a></p>" ;
+    echo  "<p><a href='lab2.html'>Арифметические операции</a></p>" ;
+    echo  "<p><a href='lab3.html'>Константа</a></p>" ;
+    echo  "<p><a href='lab4.html'>Выражение</a></p>" ;
+    echo  "<p><a href='lab5.html'>2-1</a></p>" ;
+    echo  "<p><a href='lab6.html'>2-2</a></p>" ;
+    echo  "<p><a href='lab7.html'>2-3</a></p>" ;
 ?>
